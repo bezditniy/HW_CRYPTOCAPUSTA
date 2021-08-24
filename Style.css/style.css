@@ -1,0 +1,72 @@
+header{
+    background-image: url(../IMG/Слой\ 5@1X.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.form{
+    width: 350px;
+    height: 387px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.justify-content-end{
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.form-control{
+    border: 0px;
+    border-bottom: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 0px;
+    width: 250px;
+    line-height: 35px;
+    font-size: 1.2em;
+}
+
+label{
+    color: rgb(172, 172, 172);
+}
+
+input::placeholder{
+    text-align: center;
+}
+
+button{
+    background-color: #0aa321;
+    color: white;
+}
+
+.button{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.img-block{
+    background-image: url(../IMG/Слой\ 7@1X.png);
+    background-repeat: no-repeat;
+    background-position-x: -50px;
+    height: 220px;
+}
+
+.back-block{
+    margin-bottom: 100px;
+}
+
+.back-block1{
+    background-image: url(../IMG/Слой\ 9@1X.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin-bottom: 400px;
+}
+
+footer{
+    background-color: black;
+}
